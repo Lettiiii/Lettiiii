@@ -27,6 +27,6 @@ I bridge the gap between **Business Operations** and **Cloud Technology**. With 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/haminasamimo](https://www.linkedin.com/in/haminasamimo) 
+* **LinkedIn:** [Hamina Samimo](https://www.linkedin.com/in/hamina-samimo-4ab437161/)
 * **Portfolio:** [GitHub Portfolio](https://github.com/Lettiiii) 
 * **Location:** Kuala Lumpur, Malaysia
