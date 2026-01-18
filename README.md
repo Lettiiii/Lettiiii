@@ -1,7 +1,7 @@
 # Hi 👋, I'm Hamina Samimo
 
 ### 🚀 Computer Engineering Student & AWS Certified Cloud Practitioner
-I bridge the gap between **Business Operations** and **Cloud Technology**. With a background in procurement and hands-on experience in AWS, I build data-driven solutions that automate governance and deliver predictive analytics for complex business problems.
+I bridge the gap between **Business Operations** and **Cloud Technology**. With experience in procurement and hands-on backgroud in AWS, I build data-driven solutions that automate governance and deliver predictive analytics for complex business problems.
 
 ---
 
@@ -21,7 +21,7 @@ I bridge the gap between **Business Operations** and **Cloud Technology**. With 
 
 ### 📊 Professional Evolution
 * **Current Focus:** 3rd Year Computer Engineering at Asia Pacific University (APU).
-* **Experience:** Optimized supply chain reliability and inventory schedules at Dyna Segmen Sdn Bhd.
+* **Experience:** Optimized supply chain reliability and supported procurement operations at Dyna Segmen Sdn Bhd.
 * **Certification:** AWS Certified Cloud Practitioner (Dec 2025).
 
 ---
